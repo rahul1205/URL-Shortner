@@ -5,6 +5,7 @@
 
 ## Setup
 
+- Change the credentials for database in `settings.py`
 - Create a virtualenv
 - Install the requirements `pip install -r requirements.txt`
 - Update settings.py with your own PostgresSQL credentials
