@@ -1,3 +1,8 @@
+## Notes
+
+- Implemented basic URL shortner
+- Tried implementing Redis caching but couldn't get redis to work on windows after multiple tries
+
 ## Setup
 
 - Create a virtualenv
